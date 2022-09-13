@@ -1,0 +1,10 @@
+Python program to swap two elements in a list
+Maximum of numbers in a list 
+Minimum of  numbers in list.
+Python | Reversing a List
+Python | Sum of number digits in List
+Python | Multiply all numbers in the list
+Python program to find second largest number in a list.
+Python program to count Even and Odd numbers in a List.
+Python program to print positive numbers in a list.
+Python program to print negative numbers in a list.
