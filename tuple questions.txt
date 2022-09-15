@@ -1,0 +1,35 @@
+1.Write a Python program to create a tuple.
+
+2.Write a Python program to create a tuple with 
+different data types.
+
+3.Write a Python program to create a tuple with 
+numbers and print one item.
+
+4.Write a Python program to add an item in a tuple.
+
+5.Write a Python program to convert a tuple to a string.
+
+6.Write a Python program to convert a list to a tuple.
+
+7.Write a Python program to remove an item from a tuple.
+
+8.Write a Python program to find the index of an 
+item of a tuple.
+
+9.Write a Python program to reverse a tuple.
+
+10.Write a Python program calculate the product, 
+multiplying all the numbers of a given tuple. 
+Original Tuple:
+(4, 3, 2, 2, -1, 18)
+
+11.Python – Adding Tuple to List and vice – versa.
+
+12.Python program to find tuples which have 
+all elements divisible by K from a list of tuples.
+
+13.Python – Removing duplicates from tuple.
+
+
+
