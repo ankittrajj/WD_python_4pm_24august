@@ -1,0 +1,27 @@
+#wap to find max no. from three numbers using function.
+#wap to find min no. from three numbers using function.
+#Wap to sum all number present in a list.
+#wap to check a string is reversed or not?
+#Wap to find odd number using function.
+#wap to find even no. using function.
+# Write a function to check a string is palindrome or not?
+#Wap to sum the first 10 natural numbers using function?
+
+# Wap to calculate the percentage of 5 students??
+
+# Wap to find out the average cost of 5 quantity each
+# quantity is having the value of 80 and if the value exceed by
+# avg value then also calculate the total price of whole quantity
+# avg value => 350
+
+# Wap to find the area and circumference of circle and also try to find
+# if this circle is going to be square or not?
+
+# Calculate the total area of a land having l=20 b=30.If the land
+# is greater than 100sq fit then also calculate the cost of 
+# remaining land. Price of land is 20000K.
+
+# Wap to find out the average cost of 5 quantity each
+# quantity is having the value of 80 and if the value exceed by
+# avg value then also calculate the total price of whole quantity
+# avg value => 350
