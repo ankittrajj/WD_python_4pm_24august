@@ -1,0 +1,17 @@
+#wap and find square of a number using lambda function.
+#wap to find the cube of a number using lambda function.
+#wap a program to find the average of 5 numbers using lamda 
+# function.
+# find odd & even number with the help of lambda function
+
+# Write a Python program to create a function
+#  that takes one argument, 
+# and that argument will be multiplied with an 
+unknown given number. 
+# Go to the editor
+# Sample Output:
+# Double the number of 15 = 30
+# Triple the number of 15 = 45
+# Quadruple the number of 15 = 60
+# Quintuple the number 15 = 75
+# x = [2,3,4,5]
